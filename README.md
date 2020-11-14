@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ak46652&repo=ak46652.github.io&&theme=dark" />
 <a>
+  <a>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak46652&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
 
+<a>
 <br/>
 
 
