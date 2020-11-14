@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ak46652&hide=prs,issues&theme=dark&include_all_commits=true" />
 <a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ak46652&repo=ak46652&&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ak46652&repo=ak46652.github.io&&theme=dark" />
 <a>
 
 <br/>
